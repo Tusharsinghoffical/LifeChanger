@@ -1,12 +1,7 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
 # Life Changer AI Tracker
 
 A habit tracking application with AI-powered insights and celebrations for daily, weekly, monthly, and yearly achievements.
-
-View your app in AI Studio: https://ai.studio/apps/drive/18A5HOciKjieB-99VVNTyIUfykCORvYNL
 
 ## Features
 
