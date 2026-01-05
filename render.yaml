@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: life-changer-ai-tracker
+    env: docker
+    region: frankfurt  # You can change this to your preferred region
+    plan: free
+    branch: main
