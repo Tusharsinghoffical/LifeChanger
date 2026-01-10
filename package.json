@@ -7,7 +7,10 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "node server.js"
+    "start": "node server.js",
+    "sprint:start": "echo \"Starting new sprint...\" && echo \"$(date)\" > SPRINT_CURRENT",
+    "sprint:plan": "echo \"Planning sprint...\" && cat PRODUCT_BACKLOG.md",
+    "sprint:review": "echo \"Sprint review...\" && cat SPRINT_BACKLOG.md"
   },
   "engines": {
     "node": ">=18.0.0"
